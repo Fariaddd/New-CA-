@@ -1,0 +1,15 @@
+body {
+  font-family: montserrat;
+}
+.container .home {
+  padding: 0;
+  margin: 0;
+  font-size: 50px;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+.container {
+  background: blue;
+  height: 50px;
+}

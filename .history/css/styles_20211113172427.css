@@ -1,0 +1,6 @@
+body {
+}
+nav {
+  position: fixed;
+  z-index: 10;
+}
